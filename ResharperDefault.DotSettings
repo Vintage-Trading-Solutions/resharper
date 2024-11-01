@@ -1,4 +1,4 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/IntelliSenseCompletingCharacters/CSharpCompletingCharacters/UpgradedFromVSSettings/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ArrangeNamespaceBody/@EntryIndexedValue">WARNING</s:String>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeCleanup/CleanupOnSave/@EntryValue">True</s:Boolean>
@@ -28,11 +28,12 @@
 	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=API/@EntryIndexedValue">API</s:String>
 	<s:Boolean x:Key="/Default/Dpa/IsIssuesNotificationEnabled/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Dpa/IsNoEtwHostNotificationEnabled/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ContinuousTesting/TriggerOnSave/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/ExternalSources/FirstTimeFormShown/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/ExternalSources/Decompiler/DecompilerLegalNoticeAccepted/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Feedback/SendActivityLogs/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Feedback/ShouldPrompt/@EntryValue">False</s:Boolean>
-	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">29716</s:Int64>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">35731</s:Int64>
 	<s:Boolean x:Key="/Default/Environment/IntraTextAdornment/VsIntraTextAdornment/ShowVsParameterNameHintsDisableNotification/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=SolExp_002DTrack/@EntryIndexedValue">DO_NOTHING</s:String>
 	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=VCS/@EntryIndexedValue">DO_NOTHING</s:String>
@@ -50,15 +51,16 @@
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ECSharpPlaceEmbeddedOnSameLineMigration/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ECSharpUseContinuousIndentInsideBracesMigration/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ESettingsUpgrade_002EMigrateBlankLinesAroundFieldToBlankLinesAroundProperty/@EntryIndexedValue">True</s:Boolean>
-	<s:String x:Key="/Default/Environment/UpdatesManger/LastUpdateCheck/@EntryValue">09/03/2024 07:21:23</s:String>
-	<s:String x:Key="/Default/Environment/UpdatesManger/LastUpdateCheckPerHost/=ReSharperPlatformVs17/@EntryIndexedValue">09/03/2024 05:56:49</s:String>
+	<s:String x:Key="/Default/Environment/UpdatesManger/LastUpdateCheck/@EntryValue">11/01/2024 09:03:52</s:String>
+	<s:String x:Key="/Default/Environment/UpdatesManger/LastUpdateCheckPerHost/=ReSharperPlatformVs17/@EntryIndexedValue">11/01/2024 07:29:20</s:String>
 	<s:String x:Key="/Default/Environment/UserInterface/ShortcutSchemeName/@EntryValue">VS</s:String>
 	<s:String x:Key="/Default/Environment/UserInterface/ThemedIcon/IconThemeSelection/@EntryValue">Color</s:String>
 	<s:String x:Key="/Default/Environment/UserInterface/ThemedIcon/PsiSymbolIcon/PsiSymbolIconThemeSelection/@EntryValue">SymbolsVs11Color</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028Great_0020Britain_0029/@EntryIndexedValue">Enabled</s:String>
 	<s:String x:Key="/Default/GrammarAndSpelling/GrammarChecking/LanguagesStates/=English_0020_0028USA_0029/@EntryIndexedValue">Disabled</s:String>
-	<s:String x:Key="/Default/Housekeeping/DiskCleanup/LastRunTime/@EntryValue">09/03/2024 08:37:09</s:String>
+	<s:String x:Key="/Default/Housekeeping/DiskCleanup/LastRunTime/@EntryValue">11/01/2024 07:29:26</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=AutoNamingFeatureSuggester/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=DebuggerNavigationFeatureNotifier/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=EditorConfigFeatureSuggester/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=NullabilityAnnotationAssistSuggester/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue">True</s:Boolean>
@@ -71,9 +73,9 @@
 	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/OwnedDialogPosition/Position/=GrammarAndSpelling_002EDownloadLanguages/@EntryIndexedValue">[0,96](508,469)</s:String>
 	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/RefactoringWizardWindow/Location/@EntryValue">0,-126</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">CodeCleanupGeneralOptionsPage</s:String>
-	<s:Double x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/PreviewSplitterVerticalProportion/=UnitTestSessionDescriptor/@EntryIndexedValue">1.2565687789799074</s:Double>
+	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">DotCoverContinuousTestingPageId</s:String>
+	<s:Double x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/PreviewSplitterVerticalProportion/=UnitTestSessionDescriptor/@EntryIndexedValue">1.2646616541353384</s:Double>
 	<s:Boolean x:Key="/Default/Housekeeping/UpgradeFromExceptionReport/DefaultReporterBehaviorChanged/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/UpgradeFromExceptionReport/UpgradePerformed/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/Housekeeping/WhatsNewShown/WhatsNewShownIndexedEntry/=RS0/@EntryIndexedValue">2024.1</s:String>
+	<s:String x:Key="/Default/Housekeeping/WhatsNewShown/WhatsNewShownIndexedEntry/=RS0/@EntryIndexedValue">2024.2.7.0</s:String>
 	<s:Boolean x:Key="/Default/InstalledDictionaries/InstalledDictionaries/=C_003A_005CProgram_0020Files_005CJetBrains_005Cdictionary_002Den_002Dgb_005Cindex_002Edic/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
